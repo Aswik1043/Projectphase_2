@@ -1,4 +1,4 @@
-## SECURING AND MONITORING MONEY TRANSACTION BETWEEN SMART CONTRACTORS AND TENANT SERVERS
+![image](https://github.com/Aswik1043/Projectphase_2/assets/127171984/4f64bdbe-d3c4-4cfa-993a-868194c2ed1d)## SECURING AND MONITORING MONEY TRANSACTION BETWEEN SMART CONTRACTORS AND TENANT SERVERS
 This project focuses on building the security features needed for such a system to be trustworthy. It would ensure the money goes where it's supposed to, by preventing hacking, monitoring for errors, and making sure the communication between the smart contract and the landlord's server is encrypted. 
 
 ## About
@@ -39,9 +39,11 @@ Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
-## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+## Results and ImpactEnhanced Security: 
+The project will establish robust security measures to mitigate threats like oracle manipulation, code vulnerabilities, and insecure communication. This will foster trust and confidence in the system.
+Reduced Costs: By eliminating intermediary fees, both riders and drivers could benefit. Riders might experience lower fares, while drivers could see a larger share of the earnings.
+
+
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
