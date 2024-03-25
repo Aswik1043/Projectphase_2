@@ -1,4 +1,4 @@
-![image](https://github.com/Aswik1043/Projectphase_2/assets/127171984/4f64bdbe-d3c4-4cfa-993a-868194c2ed1d)## SECURING AND MONITORING MONEY TRANSACTION BETWEEN SMART CONTRACTORS AND TENANT SERVERS
+## SECURING AND MONITORING MONEY TRANSACTION BETWEEN SMART CONTRACTORS AND TENANT SERVERS
 This project focuses on building the security features needed for such a system to be trustworthy. It would ensure the money goes where it's supposed to, by preventing hacking, monitoring for errors, and making sure the communication between the smart contract and the landlord's server is encrypted. 
 
 ## About
