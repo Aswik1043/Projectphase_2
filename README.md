@@ -1,4 +1,4 @@
-![image](https://github.com/Aswik1043/Projectphase_2/assets/127171984/eb4d258d-736b-4af3-889c-66def17fba73)## SECURING AND MONITORING MONEY TRANSACTION BETWEEN SMART CONTRACTORS AND TENANT SERVERS
+## SECURING AND MONITORING MONEY TRANSACTION BETWEEN SMART CONTRACTORS AND TENANT SERVERS
 This project focuses on building the security features needed for such a system to be trustworthy. It would ensure the money goes where it's supposed to, by preventing hacking, monitoring for errors, and making sure the communication between the smart contract and the landlord's server is encrypted. 
 
 ## About
@@ -11,8 +11,8 @@ This project tackles how to make automated rent payments (or other financial tra
  * Secure Tenant Server Integration
 
 ## Requirements
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
+* Operating System: While development can be done on various OSes, a Linux or macOS.
+* Development Environment: Python 3.8 or later is necessary for coding the sign language detection system.
 * Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
 * Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
 * Version Control: Implementation of Git for collaborative development and effective code management.
@@ -49,4 +49,3 @@ This project serves as a foundation for future developments in assistive technol
 1. T. T. A. Dinh et al., “BLOCKBENCH: A framework for analyzing private blockchains,” in SIGMOD. ACM, 2017, pp. 1085–1100. 
 2. C. Badertscher et al., “Bitcoin as a transaction ledger: A composable treatment,” in CRYPTO (1), vol. 10401. Springer, 2017, pp. 324–356. 
 
-.
