@@ -33,7 +33,7 @@ This project tackles how to make automated rent payments (or other financial tra
 ![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![Screenshot 2023-11-25 134253](![Screenshot (6)](https://github.com/Aswik1043/Projectphase_2/assets/127171984/dbd7bfc0-a799-4f08-be09-2017df2c41c0))
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
