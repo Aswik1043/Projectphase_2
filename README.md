@@ -22,7 +22,7 @@ This project tackles how to make automated rent payments (or other financial tra
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 134253](![Screenshot (6)](https://github.com/Aswik1043/Projectphase_2/assets/127171984/dbd7bfc0-a799-4f08-be09-2017df2c41c0))
+(![Screenshot (6)](https://github.com/Aswik1043/Projectphase_2/assets/127171984/dbd7bfc0-a799-4f08-be09-2017df2c41c0))
 
 
 ## Output
