@@ -30,10 +30,10 @@ This project tackles how to make automated rent payments (or other financial tra
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
 
-!(https://github.com/Aswik1043/Projectphase_2/assets/127171984/f557d572-65f7-4fdd-baa4-9ee6b5ab524f)
+![IMG_20240401_132941](https://github.com/Aswik1043/Projectphase_2/assets/127171984/f557d572-65f7-4fdd-baa4-9ee6b5ab524f)
 
 #### Output2 - Name of the output
-!(https://github.com/Aswik1043/Projectphase_2/assets/127171984/83bdbc11-61d6-4c64-a97e-5fab1e318db4)
+![IMG_20240401_132957](https://github.com/Aswik1043/Projectphase_2/assets/127171984/83bdbc11-61d6-4c64-a97e-5fab1e318db4)
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
